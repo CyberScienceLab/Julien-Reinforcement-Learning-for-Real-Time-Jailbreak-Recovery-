@@ -1,4 +1,4 @@
-# Progress_Julien Setup Instructions
+# Setup Instructions
 
 Follow these steps to run the full Prompt Defender RL stack:
 
