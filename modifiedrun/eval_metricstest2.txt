@@ -1,0 +1,180 @@
+Step 5000:
+  Avg Reward: 0.58
+  TPR: 1.00, FPR: 1.00
+  Action Distribution: {0: 0, 1: 500, 2: 0, 3: 0, 4: 0}
+  Label Distribution: {0: 261, 1: 239, -1: 0}
+
+Step 10000:
+  Avg Reward: 0.63
+  TPR: 1.00, FPR: 1.00
+  Action Distribution: {0: 0, 1: 500, 2: 0, 3: 0, 4: 0}
+  Label Distribution: {0: 253, 1: 247, -1: 0}
+
+Step 15000:
+  Avg Reward: 0.78
+  TPR: 1.00, FPR: 1.00
+  Action Distribution: {0: 0, 1: 500, 2: 0, 3: 0, 4: 0}
+  Label Distribution: {0: 231, 1: 269, -1: 0}
+
+Step 20000:
+  Avg Reward: 0.63
+  TPR: 1.00, FPR: 1.00
+  Action Distribution: {0: 0, 1: 500, 2: 0, 3: 0, 4: 0}
+  Label Distribution: {0: 254, 1: 246, -1: 0}
+
+Step 25000:
+  Avg Reward: 0.60
+  TPR: 1.00, FPR: 1.00
+  Action Distribution: {0: 0, 1: 500, 2: 0, 3: 0, 4: 0}
+  Label Distribution: {0: 258, 1: 242, -1: 0}
+
+Step 30000:
+  Avg Reward: 0.68
+  TPR: 1.00, FPR: 1.00
+  Action Distribution: {0: 0, 1: 500, 2: 0, 3: 0, 4: 0}
+  Label Distribution: {0: 246, 1: 254, -1: 0}
+
+Step 35000:
+  Avg Reward: 0.64
+  TPR: 1.00, FPR: 1.00
+  Action Distribution: {0: 0, 1: 500, 2: 0, 3: 0, 4: 0}
+  Label Distribution: {0: 252, 1: 248, -1: 0}
+
+Step 40000:
+  Avg Reward: 0.62
+  TPR: 1.00, FPR: 1.00
+  Action Distribution: {0: 0, 1: 500, 2: 0, 3: 0, 4: 0}
+  Label Distribution: {0: 255, 1: 245, -1: 0}
+
+Step 45000:
+  Avg Reward: 0.73
+  TPR: 1.00, FPR: 1.00
+  Action Distribution: {0: 0, 1: 500, 2: 0, 3: 0, 4: 0}
+  Label Distribution: {0: 238, 1: 262, -1: 0}
+
+Step 50000:
+  Avg Reward: 0.69
+  TPR: 1.00, FPR: 1.00
+  Action Distribution: {0: 0, 1: 500, 2: 0, 3: 0, 4: 0}
+  Label Distribution: {0: 245, 1: 255, -1: 0}
+
+Step 56200:
+  Avg Reward: 0.38
+  TPR: 0.97, FPR: 0.73
+  Action Distribution: {0: 101, 1: 395, 2: 0, 3: 0, 4: 4}
+  Label Distribution: {0: 250, 1: 139, -1: 111}
+
+Step 61200:
+  Avg Reward: 0.43
+  TPR: 0.93, FPR: 0.78
+  Action Distribution: {0: 88, 1: 337, 2: 23, 3: 4, 4: 48}
+  Label Distribution: {0: 263, 1: 138, -1: 99}
+
+Step 66200:
+  Avg Reward: 0.60
+  TPR: 0.96, FPR: 0.75
+  Action Distribution: {0: 97, 1: 246, 2: 10, 3: 33, 4: 114}
+  Label Distribution: {0: 255, 1: 132, -1: 113}
+
+Step 71200:
+  Avg Reward: 0.66
+  TPR: 0.97, FPR: 0.74
+  Action Distribution: {0: 96, 1: 234, 2: 6, 3: 42, 4: 122}
+  Label Distribution: {0: 236, 1: 141, -1: 123}
+
+Step 76200:
+  Avg Reward: 0.56
+  TPR: 0.93, FPR: 0.78
+  Action Distribution: {0: 88, 1: 231, 2: 19, 3: 61, 4: 101}
+  Label Distribution: {0: 230, 1: 141, -1: 129}
+
+Step 81200:
+  Avg Reward: 0.75
+  TPR: 0.97, FPR: 0.76
+  Action Distribution: {0: 89, 1: 248, 2: 18, 3: 43, 4: 102}
+  Label Distribution: {0: 250, 1: 144, -1: 106}
+
+Step 86200:
+  Avg Reward: 0.57
+  TPR: 0.98, FPR: 0.70
+  Action Distribution: {0: 116, 1: 230, 2: 18, 3: 37, 4: 99}
+  Label Distribution: {0: 257, 1: 127, -1: 116}
+
+Step 91200:
+  Avg Reward: 0.69
+  TPR: 0.98, FPR: 0.78
+  Action Distribution: {0: 83, 1: 244, 2: 26, 3: 51, 4: 96}
+  Label Distribution: {0: 260, 1: 138, -1: 102}
+
+Step 96200:
+  Avg Reward: 0.67
+  TPR: 0.98, FPR: 0.76
+  Action Distribution: {0: 92, 1: 242, 2: 32, 3: 42, 4: 92}
+  Label Distribution: {0: 265, 1: 129, -1: 106}
+
+Step 101200:
+  Avg Reward: 0.66
+  TPR: 0.92, FPR: 0.73
+  Action Distribution: {0: 111, 1: 227, 2: 41, 3: 26, 4: 95}
+  Label Distribution: {0: 252, 1: 119, -1: 129}
+
+Step 107400:
+  Avg Reward: 0.67
+  TPR: 0.97, FPR: 0.71
+  Action Distribution: {0: 118, 1: 162, 2: 40, 3: 81, 4: 99}
+  Label Distribution: {0: 238, 1: 100, -1: 162}
+
+Step 112400:
+  Avg Reward: 0.83
+  TPR: 0.95, FPR: 0.67
+  Action Distribution: {0: 132, 1: 151, 2: 58, 3: 60, 4: 99}
+  Label Distribution: {0: 246, 1: 113, -1: 141}
+
+Step 117400:
+  Avg Reward: 0.82
+  TPR: 0.98, FPR: 0.64
+  Action Distribution: {0: 145, 1: 164, 2: 31, 3: 77, 4: 83}
+  Label Distribution: {0: 254, 1: 104, -1: 142}
+
+Step 122400:
+  Avg Reward: 0.85
+  TPR: 0.98, FPR: 0.72
+  Action Distribution: {0: 110, 1: 156, 2: 57, 3: 74, 4: 103}
+  Label Distribution: {0: 241, 1: 117, -1: 142}
+
+Step 127400:
+  Avg Reward: 0.76
+  TPR: 0.98, FPR: 0.67
+  Action Distribution: {0: 140, 1: 136, 2: 58, 3: 76, 4: 90}
+  Label Distribution: {0: 263, 1: 88, -1: 149}
+
+Step 132400:
+  Avg Reward: 0.93
+  TPR: 0.96, FPR: 0.67
+  Action Distribution: {0: 135, 1: 138, 2: 67, 3: 73, 4: 87}
+  Label Distribution: {0: 268, 1: 97, -1: 135}
+
+Step 137400:
+  Avg Reward: 0.92
+  TPR: 0.98, FPR: 0.71
+  Action Distribution: {0: 117, 1: 128, 2: 80, 3: 65, 4: 110}
+  Label Distribution: {0: 235, 1: 107, -1: 158}
+
+Step 142400:
+  Avg Reward: 0.98
+  TPR: 0.96, FPR: 0.66
+  Action Distribution: {0: 136, 1: 141, 2: 79, 3: 36, 4: 108}
+  Label Distribution: {0: 238, 1: 112, -1: 150}
+
+Step 147400:
+  Avg Reward: 0.89
+  TPR: 0.99, FPR: 0.70
+  Action Distribution: {0: 115, 1: 133, 2: 90, 3: 62, 4: 100}
+  Label Distribution: {0: 233, 1: 114, -1: 153}
+
+Step 152400:
+  Avg Reward: 0.91
+  TPR: 0.95, FPR: 0.68
+  Action Distribution: {0: 131, 1: 128, 2: 68, 3: 71, 4: 102}
+  Label Distribution: {0: 233, 1: 109, -1: 158}
+

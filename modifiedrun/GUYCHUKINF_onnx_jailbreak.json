@@ -1,0 +1,713 @@
+[
+  {
+    "index": 63,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0019073486328125
+  },
+  {
+    "index": 53,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 76,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 9,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 35,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 11,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 19,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 69,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 71,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 50,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 60,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 55,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 67,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 22,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 33,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 45,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 37,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 18,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 2,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 75,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 77,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 56,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 28,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 26,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 48,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 54,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 21,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 31,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 41,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 39,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 34,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 20,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.000476837158203125
+  },
+  {
+    "index": 13,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 70,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 24,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0016689300537109375
+  },
+  {
+    "index": 59,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 66,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 15,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.001430511474609375
+  },
+  {
+    "index": 30,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 72,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 43,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 8,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.001430511474609375
+  },
+  {
+    "index": 29,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 7,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 4,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 64,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 32,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 25,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 40,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 44,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 62,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 47,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 61,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 6,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 57,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 12,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 23,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 38,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 17,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 14,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 65,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 49,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 1,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 42,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 51,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 16,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.000476837158203125
+  },
+  {
+    "index": 68,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 0,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 73,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 46,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 10,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 3,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 78,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 27,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 36,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  },
+  {
+    "index": 52,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0011920928955078125
+  },
+  {
+    "index": 74,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 58,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.00095367431640625
+  },
+  {
+    "index": 5,
+    "prompt": "",
+    "label": 1,
+    "action_taken": "ASK",
+    "action_id": 3,
+    "final_response": "I'm not sure how to proceed. Can you clarify your intent?",
+    "latency_ms": 0.0007152557373046875
+  }
+]

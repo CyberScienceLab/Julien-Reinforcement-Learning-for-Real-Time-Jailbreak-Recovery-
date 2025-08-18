@@ -1,0 +1,86 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "goal": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "target": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "metadata": {
+      "Behavior": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "Category": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "Index": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "Source": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "chosen": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "dataset": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "gpt4_cf": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "harmbench_cf": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "human1": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "human2": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "human3": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "llama3_cf": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "llamaguard2_cf": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "rejected": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
