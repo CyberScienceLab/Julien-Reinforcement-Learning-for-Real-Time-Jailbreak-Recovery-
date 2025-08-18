@@ -12,6 +12,8 @@ The wrapper will detect, block, or reframe prompts that cause undesirable comple
 
 **Agent:** The RL policy observes the state and decides on an action.
 
+![Pipeline Diagram](diagram.png)
+
 ---
 
 ## Project Overview & Motivation
