@@ -1,8 +1,16 @@
 # Prompt Defender RL: Adaptive LLM Jailbreak Defense
 
-![System Diagram](diagram.png)
+---
 
-![Confusion Matrix with Stats](confusion_matrices_with_stats.png)
+## Pipeline Overview
+
+Use an RL algorithm (e.g., PPO) to train an LLM wrapper.
+
+The wrapper will detect, block, or reframe prompts that cause undesirable completions.
+
+**Environment:** Streams of incoming prompts → base LLM → candidate output.
+
+**Agent:** The RL policy observes the state and decides on an action.
 
 ---
 
@@ -64,6 +72,14 @@ python3 load_sample_prompts.py
 ---
 
 **Order does not matter, but the backend should be running before using the frontend.**
+
+---
+
+## Results
+
+![Confusion Matrix with Stats](confusion_matrices_with_stats.png)
+
+The RL-based wrapper is highly effective at detecting and blocking harmful prompts, outperforming static wrappers in real-time scenarios. The confusion matrix above shows strong detection rates for adversarial inputs, with a high but acceptable false positive rate (FPR) due to the aggressive defense policy. This trade-off ensures robust protection during the critical deployment phase, while maintaining reasonable usability for benign queries.
 
 ---
 
