@@ -94,7 +94,7 @@ for ds_info in datasets_info:
         all_results.append(result)
         all_actions.append(action_id)
     # Save per-dataset results
-    outname = f"DEMODIST.json"
+    outname = f"DEMODISTCOPY.json"
     with open(outname, "w") as f:
         json.dump(results, f, indent=2)
     per_dataset_actions.append(actions)

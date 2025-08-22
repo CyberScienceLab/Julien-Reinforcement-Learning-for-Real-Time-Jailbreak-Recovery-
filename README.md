@@ -77,6 +77,24 @@ python3 load_sample_prompts.py
 
 ---
 
+
+## Dataset Curation
+
+**Environment Data:**
+- Harmful prompts (We use an LLM to fuzz these as well for additional harmful prompts):
+	- [JailbreakBench/JBB-Behaviors](https://huggingface.co/datasets/JailbreakBench/JBB-Behaviors)
+	- [walledai/AdvBench](https://huggingface.co/datasets/walledai/AdvBench)
+- Mixed prompts (LLM decides harmfulness):
+	- [Anthropic/hh-rlhf](https://huggingface.co/datasets/Anthropic/hh-rlhf)
+- Benign prompts:
+	- [fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
+
+**Evaluation Data:**
+- Unseen dataset:
+	- [xTRam1/safe-guard-prompt-injection](https://huggingface.co/datasets/xTRam1/safe-guard-prompt-injection)
+
+---
+
 ## Results
 
 ![Confusion Matrix with Stats](confusion_matrices_with_stats.png)
